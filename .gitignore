@@ -24,3 +24,7 @@ pnpm-debug.log*
 
 # Coverage
 coverage/
+
+# Git worktrees
+.worktrees/
+.superpowers/
