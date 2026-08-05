@@ -5,11 +5,11 @@ it — it overrides default behavior where noted.
 
 ## Project
 
-LifeQuest: a mobile-first gamified habit tracker PWA. React + Vite +
+Momentum: a mobile-first gamified habit tracker PWA. React + Vite +
 TypeScript, local-only Dexie (IndexedDB), pure game engine, retro-pixel career-
 man character with level-based unlocks and Money/Health/Mind flavor stats.
 
-Design spec: `docs/superpowers/specs/2026-08-05-lifequest-poc-design.md`.
+Design spec: `docs/superpowers/specs/2026-08-05-momentum-poc-design.md`.
 
 ## Commands
 

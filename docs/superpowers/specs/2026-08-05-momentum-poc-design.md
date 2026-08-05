@@ -1,4 +1,4 @@
-# LifeQuest — POC Design
+# Momentum — POC Design
 
 **Date:** 2026-08-05
 **Status:** Approved
